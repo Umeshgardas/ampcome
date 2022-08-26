@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ampcome/static/css/main.9d4859f4.css",
+    "main.js": "/ampcome/static/js/main.5ae49efd.js",
+    "index.html": "/ampcome/index.html",
+    "main.9d4859f4.css.map": "/ampcome/static/css/main.9d4859f4.css.map",
+    "main.5ae49efd.js.map": "/ampcome/static/js/main.5ae49efd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d4859f4.css",
+    "static/js/main.5ae49efd.js"
+  ]
+}
